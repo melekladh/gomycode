@@ -1,0 +1,56 @@
+/* h2 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    font-size: 50px
+} 
+*/
+/* nav{
+    font-size: medium ;
+    display: block;
+    text-align: center;
+
+} */
+.ul li a{
+    color: chocolate;
+    font-family: 'Rubik Scribble';
+    text-decoration: none;
+}
+.ul li {
+    color: chocolate;
+    display: inline-block;
+    margin-right: 50px;
+    
+
+}
+.title{
+    color:blue
+  }
+      /* unvisited link */
+      /* a:link {
+        color: tomato;
+    } */
+/* mouse over element */
+
+     div {
+        color: tomato;
+        border: 5px solid rgb(55, 38, 5);
+
+    }  
+     .test {
+        width: 50px;
+        height: 50px;
+        border: 1px solid red;
+        display: inline-block;
+      } 
+.welcome {
+    color: blueviolet;
+    text-align: center;
+}
+#a{
+    color: deeppink;
+}
+
+
